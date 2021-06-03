@@ -5,11 +5,11 @@ def add(x,y):
 #subtract
 def subtract(x,y):
     return x - y
-#updated main
 
-#multiply
+#multiply function done in feature1
 def multiply(x,y):
     return x * y 
+
 #divide
 def divide(x,y):
     return x / y
